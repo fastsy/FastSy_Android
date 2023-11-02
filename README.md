@@ -1,2 +1,2 @@
-# Slowly_sy_Android
+# FastSy_Android
 to be a great android project
